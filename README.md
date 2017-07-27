@@ -27,3 +27,8 @@ CREATE TABLE `msadb`.`item_review` (
     ON DELETE NO ACTION
     ON UPDATE NO ACTION);
 	
+Hystrix:
+http://localhost:8701/hystrix
+
+Eureka:
+http://localhost:8761/
